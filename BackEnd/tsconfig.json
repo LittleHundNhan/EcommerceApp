@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs", // Bạn có thể để commonjs
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "outDir": "./dist",
+        "allowSyntheticDefaultImports": true
+      },
+      "include": [
+        "src/**/*"
+      ]
+    
+}
